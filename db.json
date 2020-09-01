@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
+      "message": "Something bad happened",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-09-01T09:23:49.218Z",
       "id": 1
     },
     {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 002",
+      "message": "Server 001 is ok",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
-    },
-    {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
+      "date": "2020-09-01T09:24:08.193Z",
       "id": 3
     },
     {
       "id": 4,
-      "message": "Workstation 026 is up and running",
+      "message": "Station 002 requires attention",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "tech": "John Doe",
+      "date": "2020-09-01T09:42:02.036Z"
     }
   ],
   "techs": [
@@ -44,6 +37,31 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Fast",
+      "lastName": "Rabbit",
+      "id": 4
+    },
+    {
+      "firstName": "Fast",
+      "lastName": "RAbbit",
+      "id": 5
+    },
+    {
+      "firstName": "Someone",
+      "lastName": "Nice",
+      "id": 6
+    },
+    {
+      "firstName": "Hello",
+      "lastName": "Hi",
+      "id": 7
+    },
+    {
+      "firstName": "Nice",
+      "lastName": "Guy",
+      "id": 8
     }
   ]
 }
